@@ -1,0 +1,22 @@
+# Ludo Multiplayer Game
+
+This is a React-based Ludo multiplayer game with:
+- 2-6 player support
+- Coin system
+- Dice control for master user
+- Firebase real-time database integration
+
+## Setup
+
+1. Run `npm install` to install dependencies.
+2. Set up your Firebase configuration in `src/firebase/config.js`.
+3. Run `npm start` to start the development server.
+
+## Features
+
+- Real-time multiplayer using Firebase
+- Master dice control at `/ludo-king-premium`
+- Coin tracking system
+- Animated game board
+
+Enjoy playing!
